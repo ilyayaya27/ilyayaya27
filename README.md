@@ -49,9 +49,7 @@
 **`// STATS`**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyayaya27&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyayaya27&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=6" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ilyayaya27&hide_border=true&background=00000000&ring=000000&fire=555555&currStreakNum=000000&sideNums=000000&currStreakLabel=555555&sideLabels=555555&dates=888888&stroke=00000000" height="165"/>
 </div>
 
 <br/>
