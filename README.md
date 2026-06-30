@@ -49,7 +49,7 @@
 **`// STATS`**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyayaya27&hide_border=true&background=00000000&ring=000000&fire=555555&currStreakNum=000000&sideNums=000000&currStreakLabel=555555&sideLabels=555555&dates=888888&stroke=00000000" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ilyayaya27&hide_border=false&background=0D1117&border=30363D&ring=FFFFFF&fire=AAAAAA&currStreakNum=FFFFFF&sideNums=CCCCCC&currStreakLabel=888888&sideLabels=888888&dates=666666&stroke=30363D" height="165"/>
 </div>
 
 <br/>
