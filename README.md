@@ -23,11 +23,6 @@
   I build web apps and automation tools
   that make repetitive work disappear.
 
-  CURRENT  ::  freelance-radar
-               monitors Kwork / FL.ru / Weblancer
-               → Groq generates proposals
-               → auto-submit → Telegram notify
-
 > ────────────────────────────────────────────────────────────
 ```
 
@@ -54,9 +49,9 @@
 **`// STATS`**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyayaya27&show_icons=true&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyayaya27&show_icons=true&theme=transparent&hide_border=true&title_color=000000&icon_color=000000&text_color=333333&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyayaya27&layout=compact&hide_border=true&title_color=000000&text_color=333333&bg_color=00000000&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyayaya27&layout=compact&theme=transparent&hide_border=true&title_color=000000&text_color=333333&langs_count=6" height="165"/>
 </div>
 
 <br/>
