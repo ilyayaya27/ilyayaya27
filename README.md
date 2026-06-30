@@ -4,13 +4,13 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=60&duration=80&pause=4800&color=000000&center=true&vCenter=true&width=600&height=90&lines=ILYA+SILKIN;IL%5F%5F+SILKIN;ILYA+SILKIN;ILYA+S%C3%8CLKIN;ILYA+SILKIN" alt="name glitch"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=60&duration=80&pause=4800&color=FFFFFF&center=true&vCenter=true&width=600&height=90&lines=ILYA+SILKIN;IL%5F%5F+SILKIN;ILYA+SILKIN;ILYA+S%C3%8CLKIN;ILYA+SILKIN" alt="name glitch"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3000&pause=3000&color=555555&center=true&vCenter=true&width=600&height=28&lines=FRONTEND+DEV+%2F%2F+AUTOMATION+ENGINEER" alt="title"/>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/_%2F_PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white)](https://ilya-silkin-portfolio.vercel.app/)&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/_%2F_TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ilyasilkin27)
+[![Portfolio](https://img.shields.io/badge/_%2F_PORTFOLIO-000000?style=flat-square&logo=vercel&logoColor=white)](https://ilya-silkin-portfolio.vercel.app/)&nbsp;&nbsp;[![Telegram](https://img.shields.io/badge/_%2F_TELEGRAM-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ilyayaya27)
 
 </div>
 
